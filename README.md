@@ -12,7 +12,7 @@ Installation:
 
 1. Clone the repository:
 
-   git clone <repository_url>
+   git clone...repo link
 
 2. Install the required Python dependencies:
 
